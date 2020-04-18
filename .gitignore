@@ -22,4 +22,3 @@ Backend/.env
 /Backend/bootstrap/cache/
 /Frontend/bootstrap/cache/
 /Common/config/database.php
-/Common/config/database2.php
